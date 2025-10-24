@@ -1,0 +1,42 @@
+{
+  "P001": {
+    "name": "Aarav Sharma",
+    "age": 7,
+    "gender": "Male"
+  },
+  "P002": {
+    "name": "Ananya Das",
+    "age": 9,
+    "gender": "Female"
+  },
+  "P003": {
+    "name": "Rohan Gupta",
+    "age": 5,
+    "gender": "Male"
+  },
+  "P004": {
+    "name": "Ishita Roy",
+    "age": 8,
+    "gender": "Female"
+  },
+  "P005": {
+    "name": "Arjun Patel",
+    "age": 10,
+    "gender": "Male"
+  },
+  "P006": {
+    "name": "Maya Sen",
+    "age": 6,
+    "gender": "Other"
+  },
+  "P007": {
+    "name": "Nirupon Pal",
+    "age": 22,
+    "gender": "other"
+  },
+  "P009": {
+    "name": "Nirupon Pal",
+    "age": 22,
+    "gender": "other"
+  }
+}
